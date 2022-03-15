@@ -9,7 +9,7 @@ Ben Bruhboy666, ve sizlerle birlikte bu modla birlikteyim. Biliyorsunuz ki bunda
 
 ## EXTRA CREDITS
 
-[Triplxt](https://steamcommunity.com/id/bruhboy345/) - Old Turkish Localization Mod Coder - Eski Türkçe Yama mod kodlayıcısı
+[Bruhboy345](https://steamcommunity.com/id/bruhboy345/) - Old Turkish Localization Mod Coder - Eski Türkçe Yama mod kodlayıcısı
 
 [OLD TURKISH LOCALIZATION LINK](https://modworkshop.net/mod/34798)
 
