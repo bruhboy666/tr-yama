@@ -1,7 +1,6 @@
-Hello ! 👋
 # PAYDAY 2 TÜRKÇE YAMA [TURKISH LOCALIZATION]
+Merhaba ! 👋
 
-Merhaba!
 Ben Bruhboy666, ve sizlerle birlikte bu modla birlikteyim. Biliyorsunuz ki bundan 1 yıl önce çıkan Bir Türkçe Yama Modu vardı ancak 1 yıldır güncelleme almıyordu : ( Ben de acaba kendim yapabilir miyim diye düşündüm ve evet, işte karşınızda Payday 2 Türkçe Yama Modu ! Keyfini Çıkarın
 
 ## CREDITS
